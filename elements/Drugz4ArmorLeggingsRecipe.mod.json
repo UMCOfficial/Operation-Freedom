@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Drugz4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Drugz4Armor.legs"
+    },
+    "name": "drugz_4_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

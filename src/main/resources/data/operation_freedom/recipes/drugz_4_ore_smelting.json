@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 5.25,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "operation_freedom:drugz_4_ore"
+  },
+  "result": "operation_freedom:drugz_4"
+}

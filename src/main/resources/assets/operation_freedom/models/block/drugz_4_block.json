@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "operation_freedom:blocks/drugz4_ore_block",
+    "particle": "operation_freedom:blocks/drugz4_ore_block"
+  }
+}

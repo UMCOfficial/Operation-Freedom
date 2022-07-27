@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "1": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "2": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "operation_freedom:drugz_4_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 28,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "drugz4_hoe",
+    "customModelName": "Normal",
+    "name": "Drugz4 Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 15,
+    "efficiency": 20.0,
+    "attackSpeed": 1.0,
+    "enchantability": 105,
+    "damageVsEntity": 15.0,
+    "usageCount": 4198,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Drugz4"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "operation_freedom:drugz_4_block"
+    }
+  ],
+  "result": {
+    "item": "operation_freedom:drugz_4",
+    "count": 9
+  }
+}

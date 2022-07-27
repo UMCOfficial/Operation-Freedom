@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "1": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "2": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "3": {
+      "item": "operation_freedom:drugz_4"
+    },
+    "5": {
+      "item": "operation_freedom:drugz_4"
+    }
+  },
+  "result": {
+    "item": "operation_freedom:drugz_4_armor_helmet",
+    "count": 1
+  }
+}
