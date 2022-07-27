@@ -8,6 +8,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.HoeItem;
 import net.minecraft.world.item.CreativeModeTab;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4HoeItem extends HoeItem {
 	public Drugz4HoeItem() {
 		super(new Tier() {

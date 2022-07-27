@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "drugz4_gem",
+    "texture": "drugz4item",
     "customModelName": "Normal",
     "name": "Drugz4",
     "rarity": "COMMON",

@@ -8,6 +8,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4PickaxeItem extends PickaxeItem {
 	public Drugz4PickaxeItem() {
 		super(new Tier() {

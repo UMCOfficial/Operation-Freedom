@@ -8,6 +8,8 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.AxeItem;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4AxeItem extends AxeItem {
 	public Drugz4AxeItem() {
 		super(new Tier() {
@@ -20,7 +22,7 @@ public class Drugz4AxeItem extends AxeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 13f;
+				return 66f;
 			}
 
 			public int getLevel() {

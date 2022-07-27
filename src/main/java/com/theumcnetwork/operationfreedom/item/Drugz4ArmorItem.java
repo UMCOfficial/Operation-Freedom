@@ -14,6 +14,8 @@ import net.minecraft.world.entity.Entity;
 import net.minecraft.sounds.SoundEvent;
 import net.minecraft.resources.ResourceLocation;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public abstract class Drugz4ArmorItem extends ArmorItem {
 	public Drugz4ArmorItem(EquipmentSlot slot, Item.Properties properties) {
 		super(new ArmorMaterial() {

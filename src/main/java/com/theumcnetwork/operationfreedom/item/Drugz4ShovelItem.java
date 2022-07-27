@@ -8,6 +8,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4ShovelItem extends ShovelItem {
 	public Drugz4ShovelItem() {
 		super(new Tier() {

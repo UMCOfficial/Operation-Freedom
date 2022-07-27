@@ -8,6 +8,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4SwordItem extends SwordItem {
 	public Drugz4SwordItem() {
 		super(new Tier() {
@@ -20,7 +22,7 @@ public class Drugz4SwordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 13f;
+				return 43f;
 			}
 
 			public int getLevel() {

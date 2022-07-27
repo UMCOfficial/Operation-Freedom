@@ -16,6 +16,8 @@ import net.minecraft.core.BlockPos;
 import java.util.List;
 import java.util.Collections;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModItems;
+
 public class Drugz4OreBlock extends Block {
 	public Drugz4OreBlock() {
 		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(22.5f, 25.062189823435084f).requiresCorrectToolForDrops());

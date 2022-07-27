@@ -34,6 +34,8 @@ import java.util.Set;
 import java.util.Random;
 import java.util.List;
 
+import com.theumcnetwork.operationfreedom.init.OperationFreedomModBlocks;
+
 public class Drugz4OreFeature extends OreFeature {
 	public static Drugz4OreFeature FEATURE = null;
 	public static Holder<ConfiguredFeature<OreConfiguration, ?>> CONFIGURED_FEATURE = null;
