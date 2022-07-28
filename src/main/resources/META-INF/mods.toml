@@ -18,5 +18,17 @@ authors="mattb, MCreator"
     side="BOTH"
 
 
+[[dependencies.operation_freedom]]
+    modId="umcforge"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
+[[dependencies.operation_freedom]]
+    modId="just_enough_items"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 
